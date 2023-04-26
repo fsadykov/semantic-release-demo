@@ -1,4 +1,5 @@
-{
+{   
+    "name" : "semantic-release-demo",
     "release": {
         "branches": ["main"]
     }
