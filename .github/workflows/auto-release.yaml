@@ -1,10 +1,10 @@
 ---
 name: "Release the application version"
 
-on: [push]
-  # push:
-  #   branches:
-  #     - "master"
+on:
+  push:
+    branches:
+      - "main"
 
 jobs:
   pre-release:
@@ -18,17 +18,17 @@ jobs:
         with:
           title: "My Application Release"
 
-        
+
       - name: "Build & test"
         run: |
           echo "${{ secrets.RELEASE_GITHUB_TOKEN }}"
-      
+
       - name: Checkout
         uses: actions/checkout@v3
         with:
           persist-credentials: false
           fetch-depth: 0
-          
+
       - name: Release
         uses: cycjimmy/semantic-release-action@v3
         with:
