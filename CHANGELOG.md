@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.0](https://github.com/fsadykov/semantic-release-demo/compare/v1.1.1...v1.2.0) (2023-05-02)
+
+
+### Features
+
+* Added an example feature to the source code ([785e305](https://github.com/fsadykov/semantic-release-demo/commit/785e305f21fd107871689b76028341bc5d77a2c9))
+
 ### [1.1.1](https://github.com/fsadykov/semantic-release-demo/compare/v1.1.0...v1.1.1) (2023-05-02)
 
 
