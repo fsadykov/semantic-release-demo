@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.1.1](https://github.com/fsadykov/semantic-release-demo/compare/v1.1.0...v1.1.1) (2023-05-02)
+
+
+### Bug Fixes
+
+* Fixed to use the main branch instead of master ([1d73819](https://github.com/fsadykov/semantic-release-demo/commit/1d73819a62d56307b7ea61feff963586b3351fd9))
+
 ## [1.1.0](https://github.com/fsadykov/semantic-release-demo/compare/v1.0.0...v1.1.0) (2023-04-27)
 
 
