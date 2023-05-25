@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.0](https://github.com/fsadykov/semantic-release-demo/compare/v1.2.1...v1.3.0) (2023-05-25)
+
+
+### Features
+
+* Added hello world terraform refresh ([3ea1cae](https://github.com/fsadykov/semantic-release-demo/commit/3ea1cae549b6d0db083fe8b0fb2a33a2ce40976f))
+* Connected external data source to output ([df1baeb](https://github.com/fsadykov/semantic-release-demo/commit/df1baebed829ab07d27bdf46e4a158bfd9cd5e94))
+
+
+### Bug Fixes
+
+* Deleted comments from the external data file ([e62a413](https://github.com/fsadykov/semantic-release-demo/commit/e62a413c86fef0b1b2daba3354360a2e5124e8e7))
+
 ### [1.2.1](https://github.com/fsadykov/semantic-release-demo/compare/v1.2.0...v1.2.1) (2023-05-25)
 
 
