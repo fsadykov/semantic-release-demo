@@ -1,11 +1,11 @@
 output "hello-world" {
-  value       = "Hello World Value"
+  value       = data.external.this.result.hello
 }
 
 data "external" "this" {
   program = ["bash", "-c", "./scripts/script.sh"]
 
   query = {
-    id = "abc"
+    hello = "world"
   }
 }
