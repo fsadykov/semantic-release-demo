@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.2.1](https://github.com/fsadykov/semantic-release-demo/compare/v1.2.0...v1.2.1) (2023-05-25)
+
+
+### Bug Fixes
+
+* Deleted file  ([e5d07bd](https://github.com/fsadykov/semantic-release-demo/commit/e5d07bd055c1d5f92a93f087fa780e6ba9576e7f))
+
 ## [1.2.0](https://github.com/fsadykov/semantic-release-demo/compare/v1.1.1...v1.2.0) (2023-05-02)
 
 
