@@ -1,6 +1,0 @@
-{
-  "registry.terraform.io/hashicorp/external": {
-    "hash": "h1:bROCw6g5D/3fFnWeJ01L4IrdnJl1ILU8DGDgXCtYzaY=",
-    "version": "2.3.1"
-  }
-}

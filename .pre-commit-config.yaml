@@ -1,0 +1,3 @@
+# Empty .pre-commit-config.yaml file
+# Add hooks here as needed
+repos: []
