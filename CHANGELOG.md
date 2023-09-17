@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.4.0](https://github.com/fsadykov/semantic-release-demo/compare/v1.3.0...v1.4.0) (2023-09-17)
+
+
+### Features
+
+* Added the precommit feature to the demo ([f5a077b](https://github.com/fsadykov/semantic-release-demo/commit/f5a077b52e27f90152839f887addb2f283727a9a))
+
 ## [1.3.0](https://github.com/fsadykov/semantic-release-demo/compare/v1.2.1...v1.3.0) (2023-05-25)
 
 
